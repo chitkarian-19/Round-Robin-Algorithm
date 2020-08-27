@@ -5,7 +5,7 @@ Round Robin Algorithm
          the system uses RoundRobin Algorithm for increasing the throughput of the Operating System
          
          
-   How to Run
+         How to Run
          1. Compile the java file present in the src folder named "RoundRobin.java"
              commands: >javac RoundRobin.java
                        >java  RoundRobin
